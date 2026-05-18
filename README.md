@@ -22,3 +22,7 @@ pip install -r requirements.txt
 ## Run Project
 
 streamlit run app.py
+
+## Screenshot
+
+![Dashboard](screenshots/dashboard.png)
